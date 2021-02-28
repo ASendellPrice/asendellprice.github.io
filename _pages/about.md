@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome | Välkommen"
+title: "Welcome // Välkommen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
