@@ -1,7 +1,7 @@
 ---
 title: "Rapid morphological divergence following a human-mediated introduction: The role of drift and directional selection"
 collection: publications
-permalink: /publication/Heredity2020
+permalink: https://doi.org/10.1038/s41437-020-0298-8
 excerpt:
 date: 2020-02-20
 venue: 'Heredity'
