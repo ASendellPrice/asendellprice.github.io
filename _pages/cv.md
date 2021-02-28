@@ -1,13 +1,17 @@
 ---
 layout: archive
-title: "CV"
+title: "Publications"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
+
+## Rapid morphological divergence following a human-mediated introduction: the role of drift and directional selection
+
+
 
 Education
 ======
