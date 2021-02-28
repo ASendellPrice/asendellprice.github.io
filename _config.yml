@@ -11,7 +11,7 @@ title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Ash Sendell-Price"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://asendellprice.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ASendellPrice/academicpages.github.io
 
@@ -90,7 +90,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=EKJHVcUAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Ashley-Sendell-Price"
   uri              :
   bitbucket        :
   codepen          :
@@ -105,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
