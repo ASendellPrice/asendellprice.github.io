@@ -12,14 +12,12 @@ I am an evolutionary biologist and population geneticist based at Uppsala Univer
 
 Jag är en evolutionsbiolog och populationsgenetiker baserad på Uppsala universitet i Sverige. Använder sig av nästa generations sekvenseringstekniker studerar jag den genetiska grunden för lokal anpassning hos icke-modellarter. Mina forskningsintressen är inriktade att förstå hur befolkningar reagerar på miljöförändringar, med ett särskilt intresse för de genetika och fenotypisk förändringar som sker under första generationerna efter koloniseringen av nya miljöer.
 
-___
-
 Research Projects
 ======
 
-**Markdown generator**
+**How to build a dodo: The genetic basis of the island syndrome**
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+The Dodo provides an extreme example of an evolutionary journey that continues to play out to different extents in island bird species across the globe; a suite of changes referred to as the ‘island syndrome’. Common changes include initially small species evolving larger body size (and vice versa), reduced dispersal capacity, increased tameness, and a slowed pace of life (longer-lived with slower reproduction). It is thought that the syndrome ultimately extends from exposure to a common suite of biotic conditions on islands; a combination of reduced predation, and shift in the balance of within- versus between-species competition, features that fundamentally change the selective pressures in predictable ways. How are these changes manifested at the genetic level? Are island syndrome characteristics achieved via selection at the same or different genes? Here we aim to elucidate the genetic mechanisms that underpin the widespread evolutionary phenomenon of the island syndrome. We focus on a group of island- colonising birds, the south Pacific silvereye (Zosterops lateralis), that display varying degrees of island syndrome characteristics, including larger body size, increased tameness and slower life history, depending on the time since colonisation. Repeated island colonisations over a range of timescales, from as recent as 80 years, to over 100 thousand years ago, provides the ideal system to capture the genetic changes that accompany the island syndrome as it progresses.
 
 Getting started
 ======
