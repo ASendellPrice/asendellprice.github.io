@@ -29,4 +29,24 @@ Inferring the evolutionary dynamics at play during the process of speciation by 
 
 Download here: [link](https://asendellprice.github.io/files/Sendell-Price_et_al_2020_G3.pdf)
 
+___
 
+## Digest: The role of linkage in mimicking “magic traits”
+*Evolution* **74**, 2539-2540 (2020)
+
+**Authors:**  Estandia A, Sendell-Price AT.
+
+Can divergence in a mating trait increase local adaption by increasing ecological divergence? Servedio and Bürger propose that “pseudomagic traits,” tightly linked complexes consisting of an ecological locus under divergent selection and a locus acting as a mating cue, can effectively mimic pleiotropy. Such pseudomagic traits can form even when linkage between ecological and mating loci is limited.
+
+Download here: [link](https://asendellprice.github.io/files/Estandia_Sendell-Price_2020_Evol.pdf)
+
+___
+
+## The multiple population genetic and demographic routes to islands of genomic divergence
+*Methods in Ecology and Evolution* **11**, 6-21 (2020)
+
+**Authors:**  Quilodrán CS, Ruegg KC, Sendell‐Price AT, Anderson EC, Coulson T, Clegg SM.
+
+The way that organisms diverge into reproductively isolated species is a major question in biology. The recent accumulation of genomic data provides promising opportunities to understand the genomic landscape of divergence, which describes the distribution of differences across genomes. Genomic areas of unusually high differentiation have been called genomic islands of divergence. Their formation has been attributed to a variety of mechanisms, but a prominent hypothesis is that they result from divergent selection over a small portion of the genome, with surrounding areas homogenized by gene flow. Such islands have often been interpreted as being associated with divergence with gene flow. However, other mechanisms related to genomic structure and population history can also contribute to the formation of genomic islands of divergence. We currently lack a quantitative framework to examine the dynamics of genomic landscapes under the complex and nuanced conditions that are found in natural systems. Here, we develop an individual‐based simulation to explore the dynamics of diverging genomes under various scenarios of gene flow, selection and genotype–phenotype maps. Our modelling results are consistent with empirical observations demonstrating the formation of genomic islands under genetic isolation. Importantly, we have quantified the range of conditions that produce genomic islands. We demonstrate that the initial level of genetic diversity, drift, time since divergence, linkage disequilibrium, strength of selection and gene flow are all important factors that can influence the formation of genomic islands. Because the accumulation of genomic differentiation over time tends to erode the signal of genomic islands, genomic islands are more likely to be observed in recently divergent taxa, although not all recently diverged taxa will necessarily exhibit islands of genomic divergence. Gene flow primarily slows the swamping of islands of divergence with time. By using this framework, further studies may explore the relative influence of particular suites of events that contribute to the emergence of genomic islands under sympatric, parapatric and allopatric conditions. This approach represents a novel tool to explore quantitative expectations of the speciation process, and should prove useful in elucidating past and projecting future genomic evolution of any taxa.
+
+Download here: [link](https://asendellprice.github.io/files/Quilodran_et_al_2020_MEE.pdf)
