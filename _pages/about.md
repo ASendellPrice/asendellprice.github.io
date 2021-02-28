@@ -17,6 +17,7 @@ Research Projects
 
 **How to build a dodo: The genetic basis of the island syndrome**
 *Collaboration with Sonya Clegg, Andrea Estandia and Michał Jezierski*
+
 The Dodo provides an extreme example of an evolutionary journey that continues to play out to different extents in island bird species across the globe; a suite of changes referred to as the ‘island syndrome’. Common changes include initially small species evolving larger body size (and vice versa), reduced dispersal capacity, increased tameness, and a slowed pace of life (longer-lived with slower reproduction). It is thought that the syndrome ultimately extends from exposure to a common suite of biotic conditions on islands; a combination of reduced predation, and shift in the balance of within- versus between-species competition, features that fundamentally change the selective pressures in predictable ways. How are these changes manifested at the genetic level? Are island syndrome characteristics achieved via selection at the same or different genes? By focusing on a group of island-colonising birds, the south Pacific silvereyes (*Zosterops lateralis*), that display varying degrees of island syndrome characteristics, including larger body size, increased tameness and slower life history, depending on the time since colonisation we aim to elucidate the genetic mechanisms that underpin the widespread evolutionary phenomenon of the island syndrome.
 
 Getting started
