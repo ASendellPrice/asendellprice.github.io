@@ -12,6 +12,8 @@ I am an evolutionary biologist and population geneticist based at Uppsala Univer
 
 Jag är en evolutionsbiolog och populationsgenetiker baserad på Uppsala universitet i Sverige. Använder sig av nästa generations sekvenseringstekniker studerar jag den genetiska grunden för lokal anpassning hos icke-modellarter. Mina forskningsintressen är inriktade att förstå hur befolkningar reagerar på miljöförändringar, med ett särskilt intresse för de genetika och fenotypisk förändringar som sker under första generationerna efter koloniseringen av nya miljöer.
 
+___
+
 Research Projects
 ======
 
