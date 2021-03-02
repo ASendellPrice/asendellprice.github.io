@@ -26,7 +26,7 @@ Research Projects
 The study of island-colonising birds has played a pivotal role in the development of evolutionary theory ever since Charles Darwin’s observations of finches in the Galápagos and Alfred Wallace’s work on the birds of the Malay Archipelago informed their co-discovery of natural selection. However, as contemporary island-colonisations are rare, evolutionary insights into the very early stages of divergence have been predominantly retrospective – past processes are inferred from the vantage point of the present. This approach has been referred to as the ‘spyglass’ as processes are studied long after they have taken place. However, as past processes cannot be seen clearly through the veil of time, the spyglass approach is unlikely to reveal much about the initial changes that take place following the establishment of new populations, leaving many important evolutionary questions un-answered. Such questions include: Do changes early on in the divergence process constrain the evolutionary trajectory of a population? and Why do some species succeed in establishing new populations, but others fail? Using recent, human-mediated introductions of birds to the islands of French Polynesia, and subsequent natural colonisations within the region, I am addressing these questions by inferring the changes that characterise incipient divergence from more recent and clearer vantage points.
 <br/>
 
-**How to build a dodo: The genetic basis of the island syndrome**
+**The genetic basis of the island syndrome**
 
 *Collaboration with Sonya Clegg, Andrea Estandia and Michał Jezierski*
 
@@ -40,6 +40,9 @@ The Dodo provides an extreme example of an evolutionary journey that continues t
 Add
 
 **Assessing the prevalence and distribution of avian malaria within the introduced avifauna of the Society Archipelago**
-![Avian malaria prevalence](/images/AvianMalaria.png)
+
+Add
+
+**Genetic mechanisms of local adaption in Atlantic herring**
 
 Add
